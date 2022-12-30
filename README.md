@@ -22,7 +22,7 @@ As a user, I can view my application on a mobile device as well as a desktop.
 
 ## Example:
 
-https://corradoj02.github.io/CSS-Code-Snippets/
+https://corradoj02.github.io/CSS-Code-Snippets/ <br>
 ![css-snippet Small](https://user-images.githubusercontent.com/21178023/210084350-8bdb7d03-f09a-40d3-b933-ceee9c0ccbba.jpeg)
 
 
